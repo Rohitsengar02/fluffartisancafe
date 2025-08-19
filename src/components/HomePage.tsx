@@ -73,8 +73,8 @@ const HomePage: React.FC = () => {
   return (
     <div className="min-h-screen">
       {/* New Hero Section with Left Carousel */}
-      <section className="relative min-h-screen bg-gradient-to-br from-amber-50 to-orange-50 dark:from-gray-900 md:pt-28 lg:pt-0 dark:to-gray-800 overflow-hidden">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-screen flex items-center">
+      <section className="relative min-h-screen bg-gradient-to-br from-amber-50 to-orange-50 dark:from-gray-900 md:pt-54 pt-16 dark:to-gray-800 overflow-hidden">
+        <div className="relative min-h-screen bg-gradient-to-br from-amber-50 to-orange-50 dark:from-gray-900 dark:to-gray-800 overflow-hidden pt-2 md:pt-0">
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-16 items-center w-full">
             
             {/* Left Side - Image Carousel */}
